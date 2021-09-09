@@ -31,3 +31,4 @@ const Resp = ({username, userImagePath, commentText, likeNum, replies} :CommentT
 }
 
 export default Resp
+
