@@ -38,3 +38,4 @@ const Comments = ({username, userImagePath, commentText, likeNum, replies} :Comm
 }
 
 export default Comments
+
