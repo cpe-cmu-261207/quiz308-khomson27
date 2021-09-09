@@ -6,11 +6,12 @@ const Post = () => {
         {/* image and name */}
         <div className="flex space-x-2 items-center">
         <img className="w-12 h-12 rounded-full" src="/profileImages/profile.jpg"></img>
-        <span className='font-semibold text-lg'>Khomson Suangkaew 630310720</span>
+        <span className='font-semibold text-lg text-white'>Khomson Suangkaew 630310720</span>
         </div>
 
         {/* status message */}
-        <p>Quiz ยากจังเลยครับ ของ่ายๆ กว่านี้ได้ไหม แงงงงงง #261207</p>
+        <p className="text-white">Quiz ยากจังเลยครับ ของ่ายๆ กว่านี้ได้ไหม แงงงงงง #261207</p>
+
 
         {/* like section */}
         <div className='flex items-center'>
